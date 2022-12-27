@@ -1,0 +1,821 @@
+,Kode,Nama Perusahaan,Tipe,Currency
+0,AKPI,Argha Karya Prima Industry Tbk,Basic Materials,IDR
+1,ALDO,Alkindo Naratama Tbk.,Basic Materials,IDR
+2,ALKA,Alakasa Industrindo Tbk,Basic Materials,IDR
+3,ALMI,Alumindo Light Metal Industry ,Basic Materials,USD
+4,ANTM,Aneka Tambang Tbk.,Basic Materials,IDR
+5,APLI,Asiaplast Industries Tbk.,Basic Materials,IDR
+6,BAJA,Saranacentral Bajatama Tbk.,Basic Materials,IDR
+7,BMSR,Bintang Mitra Semestaraya Tbk,Basic Materials,IDR
+8,ADMG,Polychem Indonesia Tbk,Basic Materials,USD
+9,AGII,Aneka Gas Industri Tbk.,Basic Materials,IDR
+10,BRMS,Bumi Resources Minerals Tbk.,Basic Materials,USD
+11,BRNA,Berlina Tbk.,Basic Materials,IDR
+12,BRPT,Barito Pacific Tbk.,Basic Materials,USD
+13,CITA,Cita Mineral Investindo Tbk.,Basic Materials,IDR
+14,CLPI,Colorpak Indonesia Tbk.,Basic Materials,IDR
+15,CTBN,Citra Tubindo Tbk.,Basic Materials,USD
+16,DKFT,Central Omega Resources Tbk.,Basic Materials,IDR
+17,DPNS,Duta Pertiwi Nusantara Tbk.,Basic Materials,IDR
+18,EKAD,Ekadharma International Tbk.,Basic Materials,IDR
+19,ESSA,Surya Esa Perkasa Tbk.,Basic Materials,USD
+20,FASW,Fajar Surya Wisesa Tbk.,Basic Materials,IDR
+21,FPNI,Lotte Chemical Titan Tbk.,Basic Materials,USD
+22,GDST,Gunawan Dianjaya Steel Tbk.,Basic Materials,IDR
+23,IGAR,Champion Pacific Indonesia Tbk,Basic Materials,IDR
+24,INKP,Indah Kiat Pulp & Paper Tbk.,Basic Materials,USD
+25,INRU,Toba Pulp Lestari Tbk.,Basic Materials,USD
+26,INTD,Inter Delta Tbk,Basic Materials,IDR
+27,INTP,Indocement Tunggal Prakarsa Tb,Basic Materials,IDR
+28,IPOL,Indopoly Swakarsa Industry Tbk,Basic Materials,USD
+29,ISSP,Steel Pipe Industry of Indones,Basic Materials,IDR
+30,JKSW,Jakarta Kyoei Steel Works Tbk.,Basic Materials,IDR
+31,KDSI,Kedawung Setia Industrial Tbk.,Basic Materials,IDR
+32,KRAS,Krakatau Steel (Persero) Tbk.,Basic Materials,USD
+33,LMSH,Lionmesh Prima Tbk.,Basic Materials,IDR
+34,LTLS,Lautan Luas Tbk.,Basic Materials,IDR
+35,MDKA,Merdeka Copper Gold Tbk.,Basic Materials,USD
+36,NIKL,Pelat Timah Nusantara Tbk.,Basic Materials,USD
+37,OKAS,Ancora Indonesia Resources Tbk,Basic Materials,USD
+38,PICO,Pelangi Indah Canindo Tbk,Basic Materials,IDR
+39,PSAB,J Resources Asia Pasifik Tbk.,Basic Materials,USD
+40,SIMA,Siwani Makmur Tbk,Basic Materials,IDR
+41,SMBR,Semen Baturaja (Persero) Tbk.,Basic Materials,IDR
+42,SMCB,Solusi Bangun Indonesia Tbk.,Basic Materials,IDR
+43,SMGR,Semen Indonesia (Persero) Tbk.,Basic Materials,IDR
+44,SPMA,Suparma Tbk.,Basic Materials,IDR
+45,SQMI,Wilton Makmur Indonesia Tbk.,Basic Materials,IDR
+46,SRSN,Indo Acidatama Tbk,Basic Materials,IDR
+47,SULI,SLJ Global Tbk.,Basic Materials,USD
+48,TALF,Tunas Alfin Tbk.,Basic Materials,IDR
+49,TBMS,Tembaga Mulia Semanan Tbk.,Basic Materials,USD
+50,TKIM,Pabrik Kertas Tjiwi Kimia Tbk.,Basic Materials,USD
+51,TPIA,Chandra Asri Petrochemical Tbk,Basic Materials,USD
+52,TRST,Trias Sentosa Tbk.,Basic Materials,IDR
+53,UNIC,Unggul Indah Cahaya Tbk.,Basic Materials,USD
+54,INCF,Indo Komoditi Korpora Tbk.,Basic Materials,IDR
+55,WSBP,Waskita Beton Precast Tbk.,Basic Materials,IDR
+56,KMTR,Kirana Megatara Tbk.,Basic Materials,IDR
+57,MDKI,Emdeki Utama Tbk.,Basic Materials,IDR
+58,ZINC,Kapuas Prima Coal Tbk.,Basic Materials,IDR
+59,PBID,Panca Budi Idaman Tbk.,Basic Materials,IDR
+60,TDPM,Tridomain Performance Material,Basic Materials,USD
+61,SWAT,Sriwahana Adityakarta Tbk.,Basic Materials,IDR
+62,MOLI,Madusari Murni Indah Tbk.,Basic Materials,IDR
+63,HKMU,HK Metals Utama Tbk.,Basic Materials,IDR
+64,KAYU,Darmi Bersaudara Tbk.,Basic Materials,IDR
+65,SMKL,Satyamitra Kemas Lestari Tbk.,Basic Materials,IDR
+66,GGRP,Gunung Raja Paksi Tbk.,Basic Materials,USD
+67,OPMS,Optima Prima Metal Sinergi Tbk,Basic Materials,IDR
+68,PURE,Trinitan Metals and Minerals T,Basic Materials,IDR
+69,ESIP,Sinergi Inti Plastindo Tbk.,Basic Materials,IDR
+70,IFSH,Ifishdeco Tbk.,Basic Materials,IDR
+71,IFII,Indonesia Fibreboard Industry ,Basic Materials,IDR
+72,AYLS,Agro Yasa Lestari Tbk.,Basic Materials,IDR
+73,SAMF,Saraswanti Anugerah Makmur Tbk,Basic Materials,IDR
+74,EPAC,Megalestari Epack Sentosaraya ,Basic Materials,IDR
+75,PNGO,Pinago Utama Tbk.,Basic Materials,IDR
+76,BEBS,Berkah Beton Sadaya Tbk.,Basic Materials,IDR
+77,NPGF,Nusa Palapa Gemilang Tbk.,Basic Materials,IDR
+78,ARCI,Archi Indonesia Tbk.,Basic Materials,USD
+79,NICL,PAM Mineral Tbk.,Basic Materials,IDR
+80,TINS,Timah Tbk.,Basic Materials,IDR
+81,TIRT,Tirta Mahakam Resources Tbk,Basic Materials,IDR
+82,PDPP,Primadaya Plastisindo Tbk.,Basic Materials,
+83,BTON,Betonjaya Manunggal Tbk.,Basic Materials,IDR
+84,SBMA,Surya Biru Murni Acetylene Tbk,Basic Materials,IDR
+85,CMNT,Cemindo Gemilang Tbk.,Basic Materials,IDR
+86,WTON,Wijaya Karya Beton Tbk.,Basic Materials,IDR
+87,YPAS,Yanaprima Hastapersada Tbk,Basic Materials,IDR
+88,INAI,Indal Aluminium Industry Tbk.,Basic Materials,IDR
+89,INCI,Intanwijaya Internasional Tbk,Basic Materials,IDR
+90,INCO,Vale Indonesia Tbk.,Basic Materials,USD
+91,OBMD,OBM Drilchem Tbk.,Basic Materials,
+92,AVIA,Avia Avian Tbk.,Basic Materials,IDR
+93,KBRI,Kertas Basuki Rachmat Indonesi,Basic Materials,IDR
+94,CHEM,Chemstar Indonesia Tbk.,Basic Materials,IDR
+95,KKES,Kusuma Kemindo Sentosa Tbk.,Basic Materials,IDR
+96,AKKU,Anugerah Kagum Karya Utama Tbk,Consumer Cyclicals,IDR
+97,ARGO,Argo Pantes Tbk,Consumer Cyclicals,IDR
+98,ARTA,Arthavest Tbk,Consumer Cyclicals,IDR
+99,BATA,Sepatu Bata Tbk.,Consumer Cyclicals,IDR
+100,BAYU,Bayu Buana Tbk,Consumer Cyclicals,IDR
+101,BIMA,Primarindo Asia Infrastructure,Consumer Cyclicals,IDR
+102,BLTZ,Graha Layar Prima Tbk.,Consumer Cyclicals,IDR
+103,BOLT,Garuda Metalindo Tbk.,Consumer Cyclicals,IDR
+104,BRAM,Indo Kordsa Tbk.,Consumer Cyclicals,USD
+105,ABBA,Mahaka Media Tbk.,Consumer Cyclicals,IDR
+106,ACES,Ace Hardware Indonesia Tbk.,Consumer Cyclicals,IDR
+107,BUVA,Bukit Uluwatu Villa Tbk.,Consumer Cyclicals,IDR
+108,CINT,Chitose Internasional Tbk.,Consumer Cyclicals,IDR
+109,CNTX,Century Textile Industry Tbk.,Consumer Cyclicals,USD
+110,CSAP,Catur Sentosa Adiprana Tbk.,Consumer Cyclicals,IDR
+111,ECII,Electronic City Indonesia Tbk.,Consumer Cyclicals,IDR
+112,ERAA,Erajaya Swasembada Tbk.,Consumer Cyclicals,IDR
+113,ERTX,Eratex Djaja Tbk.,Consumer Cyclicals,USD
+114,ESTI,Ever Shine Tex Tbk.,Consumer Cyclicals,USD
+115,FAST,Fast Food Indonesia Tbk.,Consumer Cyclicals,IDR
+116,FORU,Fortune Indonesia Tbk,Consumer Cyclicals,IDR
+117,GDYR,Goodyear Indonesia Tbk.,Consumer Cyclicals,USD
+118,GEMA,Gema Grahasarana Tbk.,Consumer Cyclicals,IDR
+119,GJTL,Gajah Tunggal Tbk.,Consumer Cyclicals,IDR
+120,GLOB,Globe Kita Terang Tbk.,Consumer Cyclicals,IDR
+121,HDTX,Panasia Indo Resources Tbk.,Consumer Cyclicals,
+122,HOME,Hotel Mandarine Regency Tbk.,Consumer Cyclicals,IDR
+123,HOTL,Saraswati Griya Lestari Tbk.,Consumer Cyclicals,IDR
+124,IIKP,Inti Agri Resources Tbk,Consumer Cyclicals,IDR
+125,IKAI,Intikeramik Alamasri Industri ,Consumer Cyclicals,IDR
+126,IMAS,Indomobil Sukses Internasional,Consumer Cyclicals,IDR
+127,INDS,Indospring Tbk.,Consumer Cyclicals,IDR
+128,JIHD,Jakarta International Hotels &,Consumer Cyclicals,IDR
+129,KICI,Kedaung Indah Can Tbk,Consumer Cyclicals,IDR
+130,KPIG,MNC Land Tbk.,Consumer Cyclicals,IDR
+131,LMPI,Langgeng Makmur Industri Tbk.,Consumer Cyclicals,IDR
+132,LPIN,Multi Prima Sejahtera Tbk,Consumer Cyclicals,IDR
+133,LPPF,Matahari Department Store Tbk.,Consumer Cyclicals,IDR
+134,MAMI,Mas Murni Indonesia Tbk,Consumer Cyclicals,IDR
+135,MAPI,Mitra Adiperkasa Tbk.,Consumer Cyclicals,IDR
+136,MASA,Multistrada Arah Sarana Tbk.,Consumer Cyclicals,USD
+137,MDIA,Intermedia Capital Tbk.,Consumer Cyclicals,IDR
+138,MICE,Multi Indocitra Tbk.,Consumer Cyclicals,IDR
+139,MNCN,Media Nusantara Citra Tbk.,Consumer Cyclicals,IDR
+140,MPMX,Mitra Pinasthika Mustika Tbk.,Consumer Cyclicals,IDR
+141,MSKY,MNC Sky Vision Tbk.,Consumer Cyclicals,IDR
+142,MYTX,Asia Pacific Investama Tbk.,Consumer Cyclicals,IDR
+143,NIPS,Nipress Tbk.,Consumer Cyclicals,
+144,PANR,Panorama Sentrawisata Tbk.,Consumer Cyclicals,IDR
+145,PBRX,Pan Brothers Tbk.,Consumer Cyclicals,USD
+146,PDES,Destinasi Tirta Nusantara Tbk,Consumer Cyclicals,IDR
+147,PGLI,Pembangunan Graha Lestari Inda,Consumer Cyclicals,IDR
+148,PJAA,Pembangunan Jaya Ancol Tbk.,Consumer Cyclicals,IDR
+149,PNSE,Pudjiadi & Sons Tbk.,Consumer Cyclicals,IDR
+150,POLY,Asia Pacific Fibers Tbk,Consumer Cyclicals,USD
+151,PRAS,Prima Alloy Steel Universal Tb,Consumer Cyclicals,IDR
+152,PSKT,Red Planet Indonesia Tbk.,Consumer Cyclicals,IDR
+153,PTSP,Pioneerindo Gourmet Internatio,Consumer Cyclicals,IDR
+154,RALS,Ramayana Lestari Sentosa Tbk.,Consumer Cyclicals,IDR
+155,RICY,Ricky Putra Globalindo Tbk,Consumer Cyclicals,IDR
+156,SCMA,Surya Citra Media Tbk.,Consumer Cyclicals,IDR
+157,SHID,Hotel Sahid Jaya International,Consumer Cyclicals,IDR
+158,SMSM,Selamat Sempurna Tbk.,Consumer Cyclicals,IDR
+159,SONA,Sona Topas Tourism Industry Tb,Consumer Cyclicals,IDR
+160,SRIL,Sri Rejeki Isman Tbk.,Consumer Cyclicals,USD
+161,SSTM,Sunson Textile Manufacture Tbk,Consumer Cyclicals,IDR
+162,TMPO,Tempo Intimedia Tbk.,Consumer Cyclicals,IDR
+163,TRIO,Trikomsel Oke Tbk.,Consumer Cyclicals,
+164,TRIS,Trisula International Tbk.,Consumer Cyclicals,IDR
+165,TURI,Tunas Ridean Tbk.,Consumer Cyclicals,IDR
+166,UNIT,Nusantara Inti Corpora Tbk,Consumer Cyclicals,IDR
+167,VIVA,Visi Media Asia Tbk.,Consumer Cyclicals,IDR
+168,JGLE,Graha Andrasentra Propertindo ,Consumer Cyclicals,IDR
+169,BOGA,Bintang Oto Global Tbk.,Consumer Cyclicals,IDR
+170,MAPB,MAP Boga Adiperkasa Tbk.,Consumer Cyclicals,IDR
+171,WOOD,Integra Indocabinet Tbk.,Consumer Cyclicals,IDR
+172,HRTA,Hartadinata Abadi Tbk.,Consumer Cyclicals,IDR
+173,MABA,Marga Abhinaya Abadi Tbk.,Consumer Cyclicals,IDR
+174,NASA,Andalan Perkasa Abadi Tbk.,Consumer Cyclicals,IDR
+175,BELL,Trisula Textile Industries Tbk,Consumer Cyclicals,IDR
+176,DFAM,Dafam Property Indonesia Tbk.,Consumer Cyclicals,IDR
+177,PZZA,Sarimelati Kencana Tbk.,Consumer Cyclicals,IDR
+178,MSIN,MNC Digital Entertainment Tbk.,Consumer Cyclicals,IDR
+179,MAPA,Map Aktif Adiperkasa Tbk.,Consumer Cyclicals,IDR
+180,NUSA,Sinergi Megah Internusa Tbk.,Consumer Cyclicals,IDR
+181,FILM,MD Pictures Tbk.,Consumer Cyclicals,IDR
+182,DIGI,Arkadia Digital Media Tbk.,Consumer Cyclicals,IDR
+183,DUCK,Jaya Bersama Indo Tbk.,Consumer Cyclicals,IDR
+184,YELO,Yelooo Integra Datanet Tbk.,Consumer Cyclicals,IDR
+185,SOTS,Satria Mega Kencana Tbk.,Consumer Cyclicals,IDR
+186,ZONE,Mega Perintis Tbk.,Consumer Cyclicals,IDR
+187,CLAY,Citra Putra Realty Tbk.,Consumer Cyclicals,IDR
+188,NATO,Surya Permata Andalan Tbk.,Consumer Cyclicals,IDR
+189,HRME,Menteng Heritage Realty Tbk.,Consumer Cyclicals,IDR
+190,FITT,Hotel Fitra International Tbk.,Consumer Cyclicals,IDR
+191,BOLA,Bali Bintang Sejahtera Tbk.,Consumer Cyclicals,IDR
+192,POLU,Golden Flower Tbk.,Consumer Cyclicals,IDR
+193,IPTV,MNC Vision Networks Tbk.,Consumer Cyclicals,IDR
+194,EAST,Eastparc Hotel Tbk.,Consumer Cyclicals,IDR
+195,INOV,Inocycle Technology Group Tbk.,Consumer Cyclicals,IDR
+196,SLIS,Gaya Abadi Sempurna Tbk.,Consumer Cyclicals,IDR
+197,PMJS,Putra Mandiri Jembar Tbk.,Consumer Cyclicals,IDR
+198,ESTA,Esta Multi Usaha Tbk.,Consumer Cyclicals,IDR
+199,SBAT,Sejahtera Bintang Abadi Textil,Consumer Cyclicals,IDR
+200,CBMF,Cahaya Bintang Medan Tbk.,Consumer Cyclicals,IDR
+201,CSMI,Cipta Selera Murni Tbk.,Consumer Cyclicals,IDR
+202,UANG,Pakuan Tbk.,Consumer Cyclicals,IDR
+203,SOFA,Boston Furniture Industries Tb,Consumer Cyclicals,IDR
+204,TOYS,Sunindo Adipersada Tbk.,Consumer Cyclicals,IDR
+205,SCNP,Selaras Citra Nusantara Perkas,Consumer Cyclicals,IDR
+206,PLAN,Planet Properindo Jaya Tbk.,Consumer Cyclicals,IDR
+207,UFOE,Damai Sejahtera Abadi Tbk.,Consumer Cyclicals,IDR
+208,SNLK,Sunter Lakeside Hotel Tbk.,Consumer Cyclicals,IDR
+209,LFLO,Imago Mulia Persada Tbk.,Consumer Cyclicals,IDR
+210,LUCY,Lima Dua Lima Tiga Tbk.,Consumer Cyclicals,
+211,MGLV,Panca Anugrah Wisesa Tbk.,Consumer Cyclicals,IDR
+212,TELE,Omni Inovasi Indonesia Tbk.,Consumer Cyclicals,IDR
+213,TFCO,Tifico Fiber Indonesia Tbk.,Consumer Cyclicals,USD
+214,KDTN,Puri Sentul Permai Tbk.,Consumer Cyclicals,
+215,ZATA,Bersama Zatta Jaya Tbk.,Consumer Cyclicals,
+216,IDEA,Idea Indonesia Akademi Tbk.,Consumer Cyclicals,IDR
+217,DEPO,Caturkarda Depo Bangunan Tbk.,Consumer Cyclicals,IDR
+218,CARS,Industri dan Perdagangan Bintr,Consumer Cyclicals,IDR
+219,MINA,Sanurhasta Mitra Tbk.,Consumer Cyclicals,IDR
+220,INDR,Indo-Rama Synthetics Tbk.,Consumer Cyclicals,USD
+221,DRMA,Dharma Polimetal Tbk.,Consumer Cyclicals,IDR
+222,ASLC,Autopedia Sukses Lestari Tbk.,Consumer Cyclicals,IDR
+223,NETV,Net Visi Media Tbk.,Consumer Cyclicals,IDR
+224,BAUT,Mitra Angkasa Sejahtera Tbk.,Consumer Cyclicals,
+225,ENAK,Champ Resto Indonesia Tbk.,Consumer Cyclicals,IDR
+226,BIKE,Sepeda Bersama Indonesia Tbk.,Consumer Cyclicals,IDR
+227,JSPT,Jakarta Setiabudi Internasiona,Consumer Cyclicals,IDR
+228,OLIV,Oscar Mitra Sukses Sejahtera T,Consumer Cyclicals,IDR
+229,AUTO,Astra Otoparts Tbk.,Consumer Cyclicals,IDR
+230,MARI,Mahaka Radio Integra Tbk.,Consumer Cyclicals,IDR
+231,MKNT,Mitra Komunikasi Nusantara Tbk,Consumer Cyclicals,IDR
+232,RAFI,Sari Kreasi Boga Tbk.,Consumer Cyclicals,IDR
+233,KLIN,Klinko Karya Imaji Tbk.,Consumer Cyclicals,IDR
+234,TOOL,Rohartindo Nusantara Luas Tbk.,Consumer Cyclicals,IDR
+235,AISA,FKS Food Sejahtera Tbk.,Consumer Non-Cyclicals,IDR
+236,ALTO,Tri Banyan Tirta Tbk.,Consumer Non-Cyclicals,IDR
+237,AMRT,Sumber Alfaria Trijaya Tbk.,Consumer Non-Cyclicals,IDR
+238,ANJT,Austindo Nusantara Jaya Tbk.,Consumer Non-Cyclicals,USD
+239,BISI,BISI International Tbk.,Consumer Non-Cyclicals,IDR
+240,AALI,Astra Agro Lestari Tbk.,Consumer Non-Cyclicals,IDR
+241,ADES,Akasha Wira International Tbk.,Consumer Non-Cyclicals,IDR
+242,BWPT,Eagle High Plantations Tbk.,Consumer Non-Cyclicals,IDR
+243,CEKA,Wilmar Cahaya Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+244,CPIN,Charoen Pokphand Indonesia Tbk,Consumer Non-Cyclicals,IDR
+245,CPRO,Central Proteina Prima Tbk.,Consumer Non-Cyclicals,IDR
+246,DLTA,Delta Djakarta Tbk.,Consumer Non-Cyclicals,IDR
+247,DSFI,Dharma Samudera Fishing Indust,Consumer Non-Cyclicals,IDR
+248,DSNG,Dharma Satya Nusantara Tbk.,Consumer Non-Cyclicals,IDR
+249,EPMT,Enseval Putera Megatrading Tbk,Consumer Non-Cyclicals,IDR
+250,FISH,FKS Multi Agro Tbk.,Consumer Non-Cyclicals,USD
+251,GGRM,Gudang Garam Tbk.,Consumer Non-Cyclicals,IDR
+252,GOLL,Golden Plantation Tbk.,Consumer Non-Cyclicals,IDR
+253,GZCO,Gozco Plantations Tbk.,Consumer Non-Cyclicals,IDR
+254,HERO,Hero Supermarket Tbk.,Consumer Non-Cyclicals,IDR
+255,HMSP,H.M. Sampoerna Tbk.,Consumer Non-Cyclicals,IDR
+256,ICBP,Indofood CBP Sukses Makmur Tbk,Consumer Non-Cyclicals,IDR
+257,JAWA,Jaya Agra Wattie Tbk.,Consumer Non-Cyclicals,IDR
+258,JPFA,Japfa Comfeed Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+259,LSIP,PP London Sumatra Indonesia Tb,Consumer Non-Cyclicals,IDR
+260,MAGP,Multi Agro Gemilang Plantation,Consumer Non-Cyclicals,IDR
+261,MAIN,Malindo Feedmill Tbk.,Consumer Non-Cyclicals,IDR
+262,MBTO,Martina Berto Tbk.,Consumer Non-Cyclicals,IDR
+263,MIDI,Midi Utama Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+264,MLBI,Multi Bintang Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+265,MPPA,Matahari Putra Prima Tbk.,Consumer Non-Cyclicals,IDR
+266,MRAT,Mustika Ratu Tbk.,Consumer Non-Cyclicals,IDR
+267,MYOR,Mayora Indah Tbk.,Consumer Non-Cyclicals,IDR
+268,PALM,Provident Investasi Bersama Tb,Consumer Non-Cyclicals,IDR
+269,PSDN,Prasidha Aneka Niaga Tbk,Consumer Non-Cyclicals,IDR
+270,RANC,Supra Boga Lestari Tbk.,Consumer Non-Cyclicals,IDR
+271,RMBA,Bentoel Internasional Investam,Consumer Non-Cyclicals,IDR
+272,ROTI,Nippon Indosari Corpindo Tbk.,Consumer Non-Cyclicals,IDR
+273,SDPC,Millennium Pharmacon Internati,Consumer Non-Cyclicals,IDR
+274,SGRO,Sampoerna Agro Tbk.,Consumer Non-Cyclicals,IDR
+275,SIMP,Salim Ivomas Pratama Tbk.,Consumer Non-Cyclicals,IDR
+276,SIPD,Sreeya Sewu Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+277,SKBM,Sekar Bumi Tbk.,Consumer Non-Cyclicals,IDR
+278,SKLT,Sekar Laut Tbk.,Consumer Non-Cyclicals,IDR
+279,SMAR,Smart Tbk.,Consumer Non-Cyclicals,IDR
+280,SSMS,Sawit Sumbermas Sarana Tbk.,Consumer Non-Cyclicals,IDR
+281,STTP,Siantar Top Tbk.,Consumer Non-Cyclicals,IDR
+282,TBLA,Tunas Baru Lampung Tbk.,Consumer Non-Cyclicals,IDR
+283,ULTJ,Ultra Jaya Milk Industry & Tra,Consumer Non-Cyclicals,IDR
+284,UNSP,Bakrie Sumatera Plantations Tb,Consumer Non-Cyclicals,IDR
+285,UNVR,Unilever Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+286,WAPO,Wahana Pronatural Tbk.,Consumer Non-Cyclicals,IDR
+287,WICO,Wicaksana Overseas Internation,Consumer Non-Cyclicals,IDR
+288,WIIM,Wismilak Inti Makmur Tbk.,Consumer Non-Cyclicals,IDR
+289,DAYA,Duta Intidaya Tbk.,Consumer Non-Cyclicals,IDR
+290,DPUM,Dua Putra Utama Makmur Tbk.,Consumer Non-Cyclicals,IDR
+291,HOKI,Buyung Poetra Sembada Tbk.,Consumer Non-Cyclicals,IDR
+292,MGRO,Mahkota Group Tbk.,Consumer Non-Cyclicals,IDR
+293,ANDI,Andira Agro Tbk.,Consumer Non-Cyclicals,IDR
+294,PANI,Pratama Abadi Nusa Industri Tb,Consumer Non-Cyclicals,IDR
+295,KPAS,Cottonindo Ariesta Tbk.,Consumer Non-Cyclicals,IDR
+296,GOOD,Garudafood Putra Putri Jaya Tb,Consumer Non-Cyclicals,IDR
+297,FOOD,Sentra Food Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+298,BEEF,Estika Tata Tiara Tbk.,Consumer Non-Cyclicals,IDR
+299,COCO,Wahana Interfood Nusantara Tbk,Consumer Non-Cyclicals,IDR
+300,ITIC,Indonesian Tobacco Tbk.,Consumer Non-Cyclicals,IDR
+301,KEJU,Mulia Boga Raya Tbk.,Consumer Non-Cyclicals,IDR
+302,PSGO,Palma Serasih Tbk.,Consumer Non-Cyclicals,IDR
+303,AGAR,Asia Sejahtera Mina Tbk.,Consumer Non-Cyclicals,IDR
+304,UCID,Uni-Charm Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+305,CSRA,Cisadane Sawit Raya Tbk.,Consumer Non-Cyclicals,IDR
+306,DMND,Diamond Food Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+307,IKAN,Era Mandiri Cemerlang Tbk.,Consumer Non-Cyclicals,IDR
+308,PGUN,Pradiksi Gunatama Tbk.,Consumer Non-Cyclicals,IDR
+309,KMDS,Kurniamitra Duta Sentosa Tbk.,Consumer Non-Cyclicals,IDR
+310,ENZO,Morenzo Abadi Perkasa Tbk.,Consumer Non-Cyclicals,IDR
+311,VICI,Victoria Care Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+312,PMMP,Panca Mitra Multiperdana Tbk.,Consumer Non-Cyclicals,USD
+313,FAPA,FAP Agri Tbk.,Consumer Non-Cyclicals,IDR
+314,WMUU,Widodo Makmur Unggas Tbk.,Consumer Non-Cyclicals,IDR
+315,TAPG,Triputra Agro Persada Tbk.,Consumer Non-Cyclicals,IDR
+316,FLMC,Falmaco Nonwoven Industri Tbk.,Consumer Non-Cyclicals,IDR
+317,OILS,Indo Oil Perkasa Tbk.,Consumer Non-Cyclicals,
+318,TCID,Mandom Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+319,TGKA,Tigaraksa Satria Tbk.,Consumer Non-Cyclicals,IDR
+320,MKTR,Menthobi Karyatama Raya Tbk.,Consumer Non-Cyclicals,
+321,BTEK,Bumi Teknokultura Unggul Tbk,Consumer Non-Cyclicals,IDR
+322,BUDI,Budi Starch & Sweetener Tbk.,Consumer Non-Cyclicals,IDR
+323,BOBA,Formosa Ingredient Factory Tbk,Consumer Non-Cyclicals,IDR
+324,CMRY,Cisarua Mountain Dairy Tbk.,Consumer Non-Cyclicals,IDR
+325,CLEO,Sariguna Primatirta Tbk.,Consumer Non-Cyclicals,IDR
+326,INDF,Indofood Sukses Makmur Tbk.,Consumer Non-Cyclicals,IDR
+327,TAYS,Jaya Swarasa Agung Tbk.,Consumer Non-Cyclicals,IDR
+328,WMPP,Widodo Makmur Perkasa Tbk.,Consumer Non-Cyclicals,IDR
+329,IPPE,Indo Pureco Pratama Tbk.,Consumer Non-Cyclicals,IDR
+330,NASI,Wahana Inti Makmur Tbk.,Consumer Non-Cyclicals,IDR
+331,CAMP,Campina Ice Cream Industry Tbk,Consumer Non-Cyclicals,IDR
+332,PCAR,Prima Cakrawala Abadi Tbk.,Consumer Non-Cyclicals,IDR
+333,STAA,Sumber Tani Agung Resources Tb,Consumer Non-Cyclicals,IDR
+334,NANO,Nanotech Indonesia Global Tbk.,Consumer Non-Cyclicals,IDR
+335,TLDN,Teladan Prima Agro Tbk.,Consumer Non-Cyclicals,IDR
+336,IBOS,Indo Boga Sukses Tbk.,Consumer Non-Cyclicals,IDR
+337,ASHA,Cilacap Samudera Fishing Indus,Consumer Non-Cyclicals,IDR
+338,TRGU,Cerestar Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+339,KINO,Kino Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+340,DEWI,Dewi Shri Farmindo Tbk.,Consumer Non-Cyclicals,IDR
+341,GULA,Aman Agrindo Tbk.,Consumer Non-Cyclicals,IDR
+342,JARR,Jhonlin Agro Raya Tbk.,Consumer Non-Cyclicals,IDR
+343,AMMS,Agung Menjangan Mas Tbk.,Consumer Non-Cyclicals,IDR
+344,EURO,Estee Gold Feet Tbk.,Consumer Non-Cyclicals,IDR
+345,BUAH,Segar Kumala Indonesia Tbk.,Consumer Non-Cyclicals,IDR
+346,CRAB,Toba Surimi Industries Tbk.,Consumer Non-Cyclicals,IDR
+347,CBUT,Citra Borneo Utama Tbk.,Consumer Non-Cyclicals,
+348,AIMS,Akbar Indo Makmur Stimec Tbk,Energy,IDR
+349,AKRA,AKR Corporindo Tbk.,Energy,IDR
+350,APEX,Apexindo Pratama Duta Tbk.,Energy,USD
+351,ARII,Atlas Resources Tbk.,Energy,USD
+352,ARTI,Ratu Prabu Energi Tbk,Energy,IDR
+353,BBRM,Pelayaran Nasional Bina Buana ,Energy,USD
+354,BIPI,Astrindo Nusantara Infrastrukt,Energy,USD
+355,ADRO,Adaro Energy Indonesia Tbk.,Energy,USD
+356,BULL,Buana Lintas Lautan Tbk.,Energy,USD
+357,BUMI,Bumi Resources Tbk.,Energy,USD
+358,BYAN,Bayan Resources Tbk.,Energy,USD
+359,CANI,Capitol Nusantara Indonesia Tb,Energy,USD
+360,CNKO,Exploitasi Energi Indonesia Tb,Energy,IDR
+361,DEWA,Darma Henwa Tbk,Energy,USD
+362,DOID,Delta Dunia Makmur Tbk.,Energy,USD
+363,DSSA,Dian Swastatika Sentosa Tbk,Energy,USD
+364,ELSA,Elnusa Tbk.,Energy,IDR
+365,ENRG,Energi Mega Persada Tbk.,Energy,USD
+366,ETWA,Eterindo Wahanatama Tbk,Energy,IDR
+367,GEMS,Golden Energy Mines Tbk.,Energy,USD
+368,GTBO,Garda Tujuh Buana Tbk,Energy,USD
+369,HITS,Humpuss Intermoda Transportasi,Energy,USD
+370,HRUM,Harum Energy Tbk.,Energy,USD
+371,IATA,MNC Energy Investments Tbk.,Energy,USD
+372,INDY,Indika Energy Tbk.,Energy,USD
+373,ITMA,Sumber Energi Andalan Tbk.,Energy,USD
+374,ITMG,Indo Tambangraya Megah Tbk.,Energy,USD
+375,KKGI,Resource Alam Indonesia Tbk.,Energy,USD
+376,KOPI,Mitra Energi Persada Tbk.,Energy,IDR
+377,LEAD,Logindo Samudramakmur Tbk.,Energy,USD
+378,MBAP,Mitrabara Adiperdana Tbk.,Energy,USD
+379,MBSS,Mitrabahtera Segara Sejati Tbk,Energy,USD
+380,MEDC,Medco Energi Internasional Tbk,Energy,USD
+381,MITI,Mitra Investindo Tbk.,Energy,IDR
+382,MTFN,Capitalinc Investment Tbk.,Energy,IDR
+383,MYOH,Samindo Resources Tbk.,Energy,USD
+384,PGAS,Perusahaan Gas Negara Tbk.,Energy,USD
+385,PKPK,Perdana Karya Perkasa Tbk,Energy,IDR
+386,PTBA,Bukit Asam Tbk.,Energy,IDR
+387,PTIS,Indo Straits Tbk.,Energy,USD
+388,PTRO,Petrosea Tbk.,Energy,USD
+389,RAJA,Rukun Raharja Tbk.,Energy,USD
+390,RIGS,Rig Tenders Indonesia Tbk.,Energy,USD
+391,RUIS,Radiant Utama Interinsco Tbk.,Energy,IDR
+392,SMMT,Golden Eagle Energy Tbk.,Energy,IDR
+393,SMRU,SMR Utama Tbk.,Energy,IDR
+394,SOCI,Soechi Lines Tbk.,Energy,USD
+395,SUGI,Sugih Energy Tbk.,Energy,
+396,TOBA,TBS Energi Utama Tbk.,Energy,USD
+397,TPMA,Trans Power Marine Tbk.,Energy,USD
+398,TRAM,Trada Alam Minera Tbk.,Energy,IDR
+399,SHIP,Sillo Maritime Perdana Tbk.,Energy,USD
+400,FIRE,Alfa Energi Investama Tbk.,Energy,IDR
+401,PSSI,Pelita Samudera Shipping Tbk.,Energy,USD
+402,DWGL,Dwi Guna Laksana Tbk.,Energy,IDR
+403,JSKY,Sky Energy Indonesia Tbk.,Energy,IDR
+404,INPS,Indah Prakasa Sentosa Tbk.,Energy,IDR
+405,TCPI,Transcoal Pacific Tbk.,Energy,IDR
+406,SURE,Super Energy Tbk.,Energy,IDR
+407,WOWS,Ginting Jaya Energi Tbk.,Energy,IDR
+408,TEBE,Dana Brata Luhur Tbk.,Energy,IDR
+409,BESS,Batulicin Nusantara Maritim Tb,Energy,IDR
+410,SGER,Sumber Global Energy Tbk.,Energy,IDR
+411,UNIQ,Ulima Nitra Tbk.,Energy,IDR
+412,BSSR,Baramulti Suksessarana Tbk.,Energy,USD
+413,MCOL,Prima Andalan Mandiri Tbk.,Energy,USD
+414,GTSI,GTS Internasional Tbk.,Energy,USD
+415,TAMU,Pelayaran Tamarin Samudra Tbk.,Energy,USD
+416,WINS,Wintermar Offshore Marine Tbk.,Energy,USD
+417,RMKE,RMK Energy Tbk.,Energy,IDR
+418,BSML,Bintang Samudera Mandiri Lines,Energy,IDR
+419,ADMR,Adaro Minerals Indonesia Tbk.,Energy,USD
+420,SEMA,Semacom Integrated Tbk.,Energy,IDR
+421,BOSS,Borneo Olah Sarana Sukses Tbk.,Energy,IDR
+422,SICO,Sigma Energy Compressindo Tbk.,Energy,IDR
+423,COAL,Black Diamond Resources Tbk.,Energy,IDR
+424,AMAG,Asuransi Multi Artha Guna Tbk.,Financials,IDR
+425,APIC,Pacific Strategic Financial Tb,Financials,IDR
+426,ARTO,Bank Jago Tbk.,Financials,IDR
+427,ASBI,Asuransi Bintang Tbk.,Financials,IDR
+428,ASDM,Asuransi Dayin Mitra Tbk.,Financials,IDR
+429,ASJT,Asuransi Jasa Tania Tbk.,Financials,IDR
+430,ASMI,Asuransi Maximus Graha Persada,Financials,IDR
+431,BBCA,Bank Central Asia Tbk.,Financials,IDR
+432,BBHI,Allo Bank Indonesia Tbk.,Financials,IDR
+433,BBKP,Bank KB Bukopin Tbk.,Financials,IDR
+434,BBLD,Buana Finance Tbk.,Financials,IDR
+435,BBMD,Bank Mestika Dharma Tbk.,Financials,IDR
+436,BBNI,Bank Negara Indonesia (Persero,Financials,IDR
+437,BBRI,Bank Rakyat Indonesia (Persero,Financials,IDR
+438,BBTN,Bank Tabungan Negara (Persero),Financials,IDR
+439,BBYB,Bank Neo Commerce Tbk.,Financials,IDR
+440,BCAP,MNC Kapital Indonesia Tbk.,Financials,IDR
+441,BCIC,Bank JTrust Indonesia Tbk.,Financials,IDR
+442,BDMN,Bank Danamon Indonesia Tbk.,Financials,IDR
+443,BEKS,Bank Pembangunan Daerah Banten,Financials,IDR
+444,BFIN,BFI Finance  Indonesia Tbk.,Financials,IDR
+445,BGTG,Bank Ganesha Tbk.,Financials,IDR
+446,BINA,Bank Ina Perdana Tbk.,Financials,IDR
+447,BJBR,Bank Pembangunan Daerah Jawa B,Financials,IDR
+448,BJTM,Bank Pembangunan Daerah Jawa T,Financials,IDR
+449,BKSW,Bank QNB Indonesia Tbk.,Financials,IDR
+450,BMAS,Bank Maspion Indonesia Tbk.,Financials,IDR
+451,BMRI,Bank Mandiri (Persero) Tbk.,Financials,IDR
+452,BNBA,Bank Bumi Arta Tbk.,Financials,IDR
+453,BNGA,Bank CIMB Niaga Tbk.,Financials,IDR
+454,BNII,Bank Maybank Indonesia Tbk.,Financials,IDR
+455,BNLI,Bank Permata Tbk.,Financials,IDR
+456,BPFI,Woori Finance Indonesia Tbk.,Financials,IDR
+457,BPII,Batavia Prosperindo Internasio,Financials,IDR
+458,ABDA,Asuransi Bina Dana Arta Tbk.,Financials,IDR
+459,ADMF,Adira Dinamika Multi Finance T,Financials,IDR
+460,AGRO,Bank Raya Indonesia Tbk.,Financials,IDR
+461,AGRS,Bank IBK Indonesia Tbk.,Financials,IDR
+462,AHAP,Asuransi Harta Aman Pratama Tb,Financials,IDR
+463,BSIM,Bank Sinarmas Tbk.,Financials,IDR
+464,BVIC,Bank Victoria International Tb,Financials,IDR
+465,CFIN,Clipan Finance Indonesia Tbk.,Financials,IDR
+466,DEFI,Danasupra Erapacific Tbk.,Financials,IDR
+467,DNAR,Bank Oke Indonesia Tbk.,Financials,IDR
+468,DNET,Indoritel Makmur Internasional,Financials,IDR
+469,GSMF,Equity Development Investment ,Financials,IDR
+470,HDFA,Radana Bhaskara Finance Tbk.,Financials,IDR
+471,IBFN,Intan Baru Prana Tbk.,Financials,IDR
+472,INPC,Bank Artha Graha Internasional,Financials,IDR
+473,LPGI,Lippo General Insurance Tbk.,Financials,IDR
+474,LPPS,Lenox Pasifik Investama Tbk.,Financials,IDR
+475,MAYA,Bank Mayapada Internasional Tb,Financials,IDR
+476,MCOR,Bank China Construction Bank I,Financials,IDR
+477,MEGA,Bank Mega Tbk.,Financials,IDR
+478,MFIN,Mandala Multifinance Tbk.,Financials,IDR
+479,MGNA,Magna Investama Mandiri Tbk.,Financials,IDR
+480,MREI,Maskapai Reasuransi Indonesia ,Financials,IDR
+481,NISP,Bank OCBC NISP Tbk.,Financials,IDR
+482,NOBU,Bank Nationalnobu Tbk.,Financials,IDR
+483,OCAP,Onix Capital Tbk.,Financials,IDR
+484,PADI,Minna Padi Investama Sekuritas,Financials,IDR
+485,PANS,Panin Sekuritas Tbk.,Financials,IDR
+486,PEGE,Panca Global Kapital Tbk.,Financials,IDR
+487,PLAS,Polaris Investama Tbk,Financials,
+488,PNBN,Bank Pan Indonesia Tbk,Financials,IDR
+489,PNBS,Bank Panin Dubai Syariah Tbk.,Financials,IDR
+490,PNIN,Paninvest Tbk.,Financials,IDR
+491,PNLF,Panin Financial Tbk.,Financials,IDR
+492,POOL,Pool Advista Indonesia Tbk.,Financials,IDR
+493,RELI,Reliance Sekuritas Indonesia T,Financials,IDR
+494,SDRA,Bank Woori Saudara Indonesia 1,Financials,IDR
+495,SMMA,Sinarmas Multiartha Tbk.,Financials,IDR
+496,SRTG,Saratoga Investama Sedaya Tbk.,Financials,IDR
+497,STAR,Buana Artha Anugerah Tbk.,Financials,IDR
+498,TRIM,Trimegah Sekuritas Indonesia T,Financials,IDR
+499,TRUS,Trust Finance Indonesia Tbk,Financials,IDR
+500,VICO,Victoria Investama Tbk.,Financials,IDR
+501,VINS,Victoria Insurance Tbk.,Financials,IDR
+502,VRNA,Verena Multi Finance Tbk.,Financials,IDR
+503,CASA,Capital Financial Indonesia Tb,Financials,IDR
+504,BRIS,Bank Syariah Indonesia Tbk.,Financials,IDR
+505,MTWI,Malacca Trust Wuwungan Insuran,Financials,IDR
+506,NICK,Charnic Capital Tbk.,Financials,IDR
+507,BTPS,Bank BTPN Syariah Tbk.,Financials,IDR
+508,TUGU,Asuransi Tugu Pratama Indonesi,Financials,IDR
+509,POLA,Pool Advista Finance Tbk.,Financials,IDR
+510,SFAN,Surya Fajar Capital Tbk.,Financials,IDR
+511,LIFE,Asuransi Jiwa Sinarmas MSIG Tb,Financials,IDR
+512,FUJI,Fuji Finance Indonesia Tbk.,Financials,IDR
+513,AMAR,Bank Amar Indonesia Tbk.,Financials,IDR
+514,AMOR,Ashmore Asset Management Indon,Financials,IDR
+515,BHAT,Bhakti Multi Artha Tbk.,Financials,IDR
+516,BBSI,Krom Bank Indonesia Tbk.,Financials,IDR
+517,BANK,Bank Aladin Syariah Tbk.,Financials,IDR
+518,MASB,Bank Multiarta Sentosa Tbk.,Financials,IDR
+519,TIFA,KDB Tifa Finance Tbk.,Financials,IDR
+520,BSWD,Bank Of India Indonesia Tbk.,Financials,IDR
+521,BTPN,Bank BTPN Tbk.,Financials,IDR
+522,WOMF,Wahana Ottomitra Multiartha Tb,Financials,IDR
+523,YULE,Yulie Sekuritas Indonesia Tbk.,Financials,IDR
+524,IMJS,Indomobil Multi Jasa Tbk.,Financials,IDR
+525,JMAS,Asuransi Jiwa Syariah Jasa Mit,Financials,IDR
+526,ASRM,Asuransi Ramayana Tbk.,Financials,IDR
+527,BABP,Bank MNC Internasional Tbk.,Financials,IDR
+528,BACA,Bank Capital Indonesia Tbk.,Financials,IDR
+529,DVLA,Darya-Varia Laboratoria Tbk.,Healthcare,IDR
+530,KLBF,Kalbe Farma Tbk.,Healthcare,IDR
+531,MERK,Merck Tbk.,Healthcare,IDR
+532,MIKA,Mitra Keluarga Karyasehat Tbk.,Healthcare,IDR
+533,PYFA,Pyridam Farma Tbk,Healthcare,IDR
+534,SAME,Sarana Meditama Metropolitan T,Healthcare,IDR
+535,SCPI,Organon Pharma Indonesia Tbk.,Healthcare,
+536,SIDO,Industri Jamu dan Farmasi Sido,Healthcare,IDR
+537,SILO,Siloam International Hospitals,Healthcare,IDR
+538,SRAJ,Sejahteraraya Anugrahjaya Tbk.,Healthcare,IDR
+539,TSPC,Tempo Scan Pacific Tbk.,Healthcare,IDR
+540,PRDA,Prodia Widyahusada Tbk.,Healthcare,IDR
+541,PRIM,Royal Prima Tbk.,Healthcare,IDR
+542,HEAL,Medikaloka Hermina Tbk.,Healthcare,IDR
+543,PEHA,Phapros Tbk.,Healthcare,IDR
+544,IRRA,Itama Ranoraya Tbk.,Healthcare,IDR
+545,CARE,Metro Healthcare Indonesia Tbk,Healthcare,IDR
+546,SOHO,Soho Global Health Tbk.,Healthcare,IDR
+547,DGNS,Diagnos Laboratorium Utama Tbk,Healthcare,IDR
+548,BMHS,Bundamedik Tbk.,Healthcare,IDR
+549,OMED,Jayamas Medica Industri Tbk.,Healthcare,
+550,RSGK,Kedoya Adyaraya Tbk.,Healthcare,IDR
+551,INAF,Indofarma Tbk.,Healthcare,IDR
+552,KAEF,Kimia Farma Tbk.,Healthcare,IDR
+553,MTMH,Murni Sadar Tbk.,Healthcare,IDR
+554,MEDS,Hetzer Medical Indonesia Tbk.,Healthcare,IDR
+555,PRAY,Famon Awal Bros Sedaya Tbk.,Healthcare,
+556,AMFG,Asahimas Flat Glass Tbk.,Industrials,IDR
+557,AMIN,Ateliers Mecaniques D Indonesi,Industrials,IDR
+558,APII,Arita Prima Indonesia Tbk.,Industrials,IDR
+559,ARNA,Arwana Citramulia Tbk.,Industrials,IDR
+560,ASGR,Astra Graphia Tbk.,Industrials,IDR
+561,ASII,Astra International Tbk.,Industrials,IDR
+562,BHIT,MNC Asia Holding Tbk.,Industrials,IDR
+563,BMTR,Global Mediacom Tbk.,Industrials,IDR
+564,BNBR,Bakrie & Brothers Tbk,Industrials,IDR
+565,ABMM,ABM Investama Tbk.,Industrials,USD
+566,CTTH,Citatah Tbk.,Industrials,IDR
+567,DYAN,Dyandra Media International Tb,Industrials,IDR
+568,HEXA,Hexindo Adiperkasa Tbk.,Industrials,USD
+569,ICON,Island Concepts Indonesia Tbk.,Industrials,IDR
+570,IKBI,Sumi Indo Kabel Tbk.,Industrials,USD
+571,INDX,Tanah Laut Tbk,Industrials,IDR
+572,INTA,Intraco Penta Tbk.,Industrials,IDR
+573,JECC,Jembo Cable Company Tbk.,Industrials,IDR
+574,KIAS,Keramika Indonesia Assosiasi T,Industrials,IDR
+575,KOBX,Kobexindo Tractors Tbk.,Industrials,USD
+576,KOIN,Kokoh Inti Arebama Tbk,Industrials,IDR
+577,KONI,Perdana Bangun Pusaka Tbk,Industrials,IDR
+578,KRAH,Grand Kartech Tbk.,Industrials,IDR
+579,LION,Lion Metal Works Tbk.,Industrials,IDR
+580,MDRN,Modern Internasional Tbk.,Industrials,IDR
+581,MFMI,Multifiling Mitra Indonesia Tb,Industrials,IDR
+582,MLIA,Mulia Industrindo Tbk,Industrials,IDR
+583,MLPL,Multipolar Tbk.,Industrials,IDR
+584,SCCO,Supreme Cable Manufacturing & ,Industrials,IDR
+585,TOTO,Surya Toto Indonesia Tbk.,Industrials,IDR
+586,TRIL,Triwira Insanlestari Tbk.,Industrials,
+587,UNTR,United Tractors Tbk.,Industrials,IDR
+588,VOKS,Voksel Electric Tbk.,Industrials,IDR
+589,MARK,Mark Dynamics Indonesia Tbk.,Industrials,IDR
+590,SPTO,Surya Pertiwi Tbk.,Industrials,IDR
+591,KPAL,Steadfast Marine Tbk.,Industrials,IDR
+592,SKRN,Superkrane Mitra Utama Tbk.,Industrials,IDR
+593,CAKK,Cahayaputra Asa Keramik Tbk.,Industrials,IDR
+594,SOSS,Shield On Service Tbk.,Industrials,IDR
+595,CCSI,Communication Cable Systems In,Industrials,IDR
+596,BLUE,Berkah Prima Perkasa Tbk.,Industrials,IDR
+597,ARKA,Arkha Jayanti Persada Tbk.,Industrials,IDR
+598,SINI,Singaraja Putra Tbk.,Industrials,IDR
+599,HOPE,Harapan Duta Pertiwi Tbk.,Industrials,IDR
+600,LABA,Ladangbaja Murni Tbk.,Industrials,IDR
+601,GPSO,Geoprima Solusi Tbk.,Industrials,IDR
+602,TIRA,Tira Austenite Tbk,Industrials,IDR
+603,KUAS,Ace Oldfields Tbk.,Industrials,IDR
+604,BINO,Perma Plasindo Tbk.,Industrials,IDR
+605,ZBRA,Dosni Roha Indonesia Tbk.,Industrials,IDR
+606,IMPC,Impack Pratama Industri Tbk.,Industrials,IDR
+607,NTBK,Nusatama Berkah Tbk.,Industrials,IDR
+608,JTPE,Jasuindo Tiga Perkasa Tbk.,Industrials,IDR
+609,KBLI,KMI Wire & Cable Tbk.,Industrials,IDR
+610,KBLM,Kabelindo Murni Tbk.,Industrials,IDR
+611,BALI,Bali Towerindo Sentra Tbk.,Infrastructures,IDR
+612,ACST,Acset Indonusa Tbk.,Infrastructures,IDR
+613,ADHI,Adhi Karya (Persero) Tbk.,Infrastructures,IDR
+614,BUKK,Bukaka Teknik Utama Tbk.,Infrastructures,IDR
+615,CASS,Cardig Aero Services Tbk.,Infrastructures,IDR
+616,CENT,Centratama Telekomunikasi Indo,Infrastructures,IDR
+617,CMNP,Citra Marga Nusaphala Persada ,Infrastructures,IDR
+618,DGIK,Nusa Konstruksi Enjiniring Tbk,Infrastructures,IDR
+619,EXCL,XL Axiata Tbk.,Infrastructures,IDR
+620,FREN,Smartfren Telecom Tbk.,Infrastructures,IDR
+621,GOLD,Visi Telekomunikasi Infrastruk,Infrastructures,IDR
+622,HADE,Himalaya Energi Perkasa Tbk.,Infrastructures,IDR
+623,IBST,Inti Bangun Sejahtera Tbk.,Infrastructures,IDR
+624,ISAT,Indosat Tbk.,Infrastructures,IDR
+625,JKON,Jaya Konstruksi Manggala Prata,Infrastructures,IDR
+626,LAPD,Leyand International Tbk.,Infrastructures,IDR
+627,LINK,Link Net Tbk.,Infrastructures,IDR
+628,META,Nusantara Infrastructure Tbk.,Infrastructures,IDR
+629,NRCA,Nusa Raya Cipta Tbk.,Infrastructures,IDR
+630,PTPP,PP (Persero) Tbk.,Infrastructures,IDR
+631,SSIA,Surya Semesta Internusa Tbk.,Infrastructures,IDR
+632,SUPR,Solusi Tunas Pratama Tbk.,Infrastructures,IDR
+633,TBIG,Tower Bersama Infrastructure T,Infrastructures,IDR
+634,TLKM,Telkom Indonesia (Persero) Tbk,Infrastructures,IDR
+635,TOTL,Total Bangun Persada Tbk.,Infrastructures,IDR
+636,TOWR,Sarana Menara Nusantara Tbk.,Infrastructures,IDR
+637,IDPR,Indonesia Pondasi Raya Tbk.,Infrastructures,IDR
+638,PBSA,Paramita Bangun Sarana Tbk.,Infrastructures,IDR
+639,TGRA,Terregra Asia Energy Tbk.,Infrastructures,IDR
+640,TOPS,Totalindo Eka Persada Tbk.,Infrastructures,IDR
+641,MPOW,Megapower Makmur Tbk.,Infrastructures,IDR
+642,GMFI,Garuda Maintenance Facility Ae,Infrastructures,USD
+643,PPRE,PP Presisi Tbk.,Infrastructures,IDR
+644,WEGE,Wijaya Karya Bangunan Gedung T,Infrastructures,IDR
+645,MORA,Mora Telematika Indonesia Tbk.,Infrastructures,IDR
+646,GHON,Gihon Telekomunikasi Indonesia,Infrastructures,IDR
+647,IPCC,Indonesia Kendaraan Terminal T,Infrastructures,IDR
+648,MTPS,Meta Epsi Tbk.,Infrastructures,IDR
+649,JAST,Jasnita Telekomindo Tbk.,Infrastructures,IDR
+650,KEEN,Kencana Energi Lestari Tbk.,Infrastructures,USD
+651,PTPW,Pratama Widya Tbk.,Infrastructures,IDR
+652,TAMA,Lancartama Sejati Tbk.,Infrastructures,IDR
+653,RONY,Aesler Grup Internasional Tbk.,Infrastructures,IDR
+654,PTDU,Djasa Ubersakti Tbk.,Infrastructures,IDR
+655,KETR,Ketrosden Triasmitra Tbk.,Infrastructures,
+656,FIMP,Fimperkasa Utama Tbk.,Infrastructures,IDR
+657,BTEL,Bakrie Telecom Tbk.,Infrastructures,IDR
+658,MTEL,Dayamitra Telekomunikasi Tbk.,Infrastructures,IDR
+659,PORT,Nusantara Pelabuhan Handal Tbk,Infrastructures,IDR
+660,WIKA,Wijaya Karya (Persero) Tbk.,Infrastructures,IDR
+661,WSKT,Waskita Karya (Persero) Tbk.,Infrastructures,IDR
+662,IPCM,Jasa Armada Indonesia Tbk.,Infrastructures,IDR
+663,LCKM,LCK Global Kedaton Tbk.,Infrastructures,IDR
+664,SMKM,Sumber Mas Konstruksi Tbk.,Infrastructures,IDR
+665,JSMR,Jasa Marga (Persero) Tbk.,Infrastructures,IDR
+666,KARW,ICTSI Jasa Prima Tbk.,Infrastructures,USD
+667,KBLV,First Media Tbk.,Infrastructures,IDR
+668,ARKO,Arkora Hydro Tbk.,Infrastructures,IDR
+669,MTRA,Mitra Pemuda Tbk.,Infrastructures,IDR
+670,OASA,Maharaksa Biru Energi Tbk.,Infrastructures,IDR
+671,POWR,Cikarang Listrindo Tbk.,Infrastructures,USD
+672,KRYA,Bangun Karya Perkasa Jaya Tbk.,Infrastructures,IDR
+673,APLN,Agung Podomoro Land Tbk.,Properties & Real Estate,IDR
+674,BAPA,Bekasi Asri Pemula Tbk.,Properties & Real Estate,IDR
+675,BCIP,Bumi Citra Permai Tbk.,Properties & Real Estate,IDR
+676,BEST,Bekasi Fajar Industrial Estate,Properties & Real Estate,IDR
+677,BIKA,Binakarya Jaya Abadi Tbk.,Properties & Real Estate,IDR
+678,BIPP,Bhuwanatala Indah Permai Tbk.,Properties & Real Estate,IDR
+679,BKDP,Bukit Darmo Property Tbk,Properties & Real Estate,IDR
+680,BKSL,Sentul City Tbk.,Properties & Real Estate,IDR
+681,BSDE,Bumi Serpong Damai Tbk.,Properties & Real Estate,IDR
+682,COWL,Cowell Development Tbk.,Properties & Real Estate,IDR
+683,CTRA,Ciputra Development Tbk.,Properties & Real Estate,IDR
+684,DART,Duta Anggada Realty Tbk.,Properties & Real Estate,IDR
+685,DILD,Intiland Development Tbk.,Properties & Real Estate,IDR
+686,DMAS,Puradelta Lestari Tbk.,Properties & Real Estate,IDR
+687,DUTI,Duta Pertiwi Tbk,Properties & Real Estate,IDR
+688,ELTY,Bakrieland Development Tbk.,Properties & Real Estate,IDR
+689,EMDE,Megapolitan Developments Tbk.,Properties & Real Estate,IDR
+690,FMII,Fortune Mate Indonesia Tbk,Properties & Real Estate,IDR
+691,GAMA,Aksara Global Development Tbk.,Properties & Real Estate,IDR
+692,GMTD,Gowa Makassar Tourism Developm,Properties & Real Estate,IDR
+693,GPRA,Perdana Gapuraprima Tbk.,Properties & Real Estate,IDR
+694,GWSA,Greenwood Sejahtera Tbk.,Properties & Real Estate,IDR
+695,INPP,Indonesian Paradise Property T,Properties & Real Estate,IDR
+696,JRPT,Jaya Real Property Tbk.,Properties & Real Estate,IDR
+697,KIJA,Kawasan Industri Jababeka Tbk.,Properties & Real Estate,IDR
+698,LCGP,Eureka Prima Jakarta Tbk.,Properties & Real Estate,IDR
+699,LPCK,Lippo Cikarang Tbk,Properties & Real Estate,IDR
+700,LPKR,Lippo Karawaci Tbk.,Properties & Real Estate,IDR
+701,LPLI,Star Pacific Tbk,Properties & Real Estate,IDR
+702,MDLN,Modernland Realty Tbk.,Properties & Real Estate,IDR
+703,MKPI,Metropolitan Kentjana Tbk.,Properties & Real Estate,IDR
+704,MMLP,Mega Manunggal Property Tbk.,Properties & Real Estate,IDR
+705,MTLA,Metropolitan Land Tbk.,Properties & Real Estate,IDR
+706,MTSM,Metro Realty Tbk.,Properties & Real Estate,IDR
+707,MYRX,Hanson International Tbk.,Properties & Real Estate,IDR
+708,NIRO,City Retail Developments Tbk.,Properties & Real Estate,IDR
+709,OMRE,Indonesia Prima Property Tbk,Properties & Real Estate,IDR
+710,PLIN,Plaza Indonesia Realty Tbk.,Properties & Real Estate,IDR
+711,PPRO,PP Properti Tbk.,Properties & Real Estate,IDR
+712,PUDP,Pudjiadi Prestige Tbk.,Properties & Real Estate,IDR
+713,PWON,Pakuwon Jati Tbk.,Properties & Real Estate,IDR
+714,RBMS,Ristia Bintang Mahkotasejati T,Properties & Real Estate,IDR
+715,RDTX,Roda Vivatex Tbk,Properties & Real Estate,IDR
+716,RIMO,Rimo International Lestari Tbk,Properties & Real Estate,IDR
+717,RODA,Pikko Land Development Tbk.,Properties & Real Estate,IDR
+718,SMDM,Suryamas Dutamakmur Tbk.,Properties & Real Estate,IDR
+719,SMRA,Summarecon Agung Tbk.,Properties & Real Estate,IDR
+720,TARA,Agung Semesta Sejahtera Tbk.,Properties & Real Estate,IDR
+721,CSIS,Cahayasakti Investindo Sukses ,Properties & Real Estate,IDR
+722,ARMY,Armidian Karyatama Tbk.,Properties & Real Estate,IDR
+723,RISE,Jaya Sukses Makmur Sentosa Tbk,Properties & Real Estate,IDR
+724,POLL,Pollux Properties Indonesia Tb,Properties & Real Estate,IDR
+725,LAND,Trimitra Propertindo Tbk.,Properties & Real Estate,IDR
+726,CITY,Natura City Developments Tbk.,Properties & Real Estate,IDR
+727,MPRO,Maha Properti Indonesia Tbk.,Properties & Real Estate,IDR
+728,SATU,Kota Satu Properti Tbk.,Properties & Real Estate,IDR
+729,URBN,Urban Jakarta Propertindo Tbk.,Properties & Real Estate,IDR
+730,POLI,Pollux Hotels Group Tbk.,Properties & Real Estate,IDR
+731,CPRI,Capri Nusa Satu Properti Tbk.,Properties & Real Estate,IDR
+732,POSA,Bliss Properti Indonesia Tbk.,Properties & Real Estate,IDR
+733,PAMG,Bima Sakti Pertiwi Tbk.,Properties & Real Estate,IDR
+734,KOTA,DMS Propertindo Tbk.,Properties & Real Estate,IDR
+735,BAPI,Bhakti Agung Propertindo Tbk.,Properties & Real Estate,IDR
+736,NZIA,Nusantara Almazia Tbk.,Properties & Real Estate,IDR
+737,REAL,Repower Asia Indonesia Tbk.,Properties & Real Estate,IDR
+738,INDO,Royalindo Investa Wijaya Tbk.,Properties & Real Estate,IDR
+739,TRIN,Perintis Triniti Properti Tbk.,Properties & Real Estate,IDR
+740,DADA,Diamond Citra Propertindo Tbk.,Properties & Real Estate,IDR
+741,ASPI,Andalan Sakti Primaindo Tbk.,Properties & Real Estate,IDR
+742,AMAN,Makmur Berkah Amanda Tbk.,Properties & Real Estate,IDR
+743,KBAG,Karya Bersama Anugerah Tbk.,Properties & Real Estate,IDR
+744,BBSS,Bumi Benowo Sukses Sejahtera T,Properties & Real Estate,IDR
+745,PURI,Puri Global Sukses Tbk.,Properties & Real Estate,IDR
+746,HOMI,Grand House Mulia Tbk.,Properties & Real Estate,IDR
+747,ROCK,Rockfields Properti Indonesia ,Properties & Real Estate,IDR
+748,ATAP,Trimitra Prawara Goldland Tbk.,Properties & Real Estate,IDR
+749,ADCP,Adhi Commuter Properti Tbk.,Properties & Real Estate,IDR
+750,TRUE,Triniti Dinamik Tbk.,Properties & Real Estate,IDR
+751,IPAC,Era Graharealty Tbk.,Properties & Real Estate,IDR
+752,BSBK,Wulandari Bangun Laksana Tbk.,Properties & Real Estate,
+753,FORZ,Forza Land Indonesia Tbk.,Properties & Real Estate,IDR
+754,WINR,Winner Nusantara Jaya Tbk.,Properties & Real Estate,IDR
+755,SWID,Saraswanti Indoland Developmen,Properties & Real Estate,IDR
+756,ASRI,Alam Sutera Realty Tbk.,Properties & Real Estate,IDR
+757,EMTK,Elang Mahkota Teknologi Tbk.,Technology,IDR
+758,KREN,Kresna Graha Investama Tbk.,Technology,IDR
+759,LMAS,Limas Indonesia Makmur Tbk,Technology,IDR
+760,MLPT,Multipolar Technology Tbk.,Technology,IDR
+761,MTDL,Metrodata Electronics Tbk.,Technology,IDR
+762,PTSN,Sat Nusapersada Tbk,Technology,USD
+763,SKYB,Northcliff Citranusa Indonesia,Technology,IDR
+764,KIOS,Kioson Komersial Indonesia Tbk,Technology,IDR
+765,MCAS,M Cash Integrasi Tbk.,Technology,IDR
+766,NFCX,NFC Indonesia Tbk.,Technology,IDR
+767,DIVA,Distribusi Voucher Nusantara T,Technology,IDR
+768,LUCK,Sentral Mitra Informatika Tbk.,Technology,IDR
+769,ENVY,Envy Technologies Indonesia Tb,Technology,IDR
+770,HDIT,Hensel Davest Indonesia Tbk.,Technology,IDR
+771,TFAS,Telefast Indonesia Tbk.,Technology,IDR
+772,DMMX,Digital Mediatama Maxima Tbk.,Technology,IDR
+773,GLVA,Galva Technologies Tbk.,Technology,IDR
+774,PGJO,Tourindo Guide Indonesia Tbk.,Technology,IDR
+775,CASH,Cashlez Worldwide Indonesia Tb,Technology,IDR
+776,TECH,Indosterling Technomedia Tbk.,Technology,IDR
+777,WIFI,Solusi Sinergi Digital Tbk.,Technology,IDR
+778,DCII,DCI Indonesia Tbk.,Technology,IDR
+779,EDGE,Indointernet Tbk.,Technology,IDR
+780,ZYRX,Zyrexindo Mandiri Buana Tbk.,Technology,IDR
+781,UVCR,Trimegah Karya Pratama Tbk.,Technology,IDR
+782,BUKA,Bukalapak.com Tbk.,Technology,IDR
+783,RUNS,Global Sukses Solusi Tbk.,Technology,IDR
+784,WGSH,Wira Global Solusi Tbk.,Technology,IDR
+785,WIRG,WIR ASIA Tbk.,Technology,IDR
+786,GOTO,GoTo Gojek Tokopedia Tbk.,Technology,IDR
+787,ATIC,Anabatic Technologies Tbk.,Technology,IDR
+788,AXIO,Tera Data Indonusa Tbk.,Technology,IDR
+789,BELI,Global Digital Niaga Tbk.,Technology,
+790,AKSI,Mineral Sumberdaya Mandiri Tbk,Transportation & Logistic,IDR
+791,BIRD,Blue Bird Tbk.,Transportation & Logistic,IDR
+792,BLTA,Berlian Laju Tanker Tbk,Transportation & Logistic,USD
+793,CMPP,AirAsia Indonesia Tbk.,Transportation & Logistic,IDR
+794,GIAA,Garuda Indonesia (Persero) Tbk,Transportation & Logistic,USD
+795,LRNA,Eka Sari Lorena Transport Tbk.,Transportation & Logistic,IDR
+796,MIRA,Mitra International Resources ,Transportation & Logistic,IDR
+797,NELY,Pelayaran Nelly Dwi Putri Tbk.,Transportation & Logistic,IDR
+798,SAFE,Steady Safe Tbk,Transportation & Logistic,IDR
+799,SDMU,Sidomulyo Selaras Tbk.,Transportation & Logistic,IDR
+800,SMDR,Samudera Indonesia  Tbk.,Transportation & Logistic,USD
+801,TAXI,Express Transindo Utama Tbk.,Transportation & Logistic,IDR
+802,TMAS,Temas Tbk.,Transportation & Logistic,IDR
+803,WEHA,WEHA Transportasi Indonesia Tb,Transportation & Logistic,IDR
+804,TRUK,Guna Timur Raya Tbk.,Transportation & Logistic,IDR
+805,TNCA,Trimuda Nuansa Citra Tbk.,Transportation & Logistic,IDR
+806,BPTR,Batavia Prosperindo Trans Tbk.,Transportation & Logistic,IDR
+807,SAPX,Satria Antaran Prima Tbk.,Transportation & Logistic,IDR
+808,DEAL,Dewata Freightinternational Tb,Transportation & Logistic,IDR
+809,JAYA,Armada Berjaya Trans Tbk.,Transportation & Logistic,IDR
+810,KJEN,Krida Jaringan Nusantara Tbk.,Transportation & Logistic,IDR
+811,PURA,Putra Rajawali Kencana Tbk.,Transportation & Logistic,IDR
+812,PPGL,Prima Globalindo Logistik Tbk.,Transportation & Logistic,IDR
+813,TRJA,Transkon Jaya Tbk.,Transportation & Logistic,IDR
+814,HAIS,Hasnur Internasional Shipping ,Transportation & Logistic,IDR
+815,HELI,Jaya Trishindo Tbk.,Transportation & Logistic,IDR
+816,ASSA,Adi Sarana Armada Tbk.,Transportation & Logistic,IDR
+817,HATM,Habco Trans Maritima Tbk.,Transportation & Logistic,IDR
+818,RCCC,Utama Radar Cahaya Tbk.,Transportation & Logistic,IDR
+819,ELPI,Pelayaran Nasional Ekalya Purn,Transportation & Logistic,IDR
