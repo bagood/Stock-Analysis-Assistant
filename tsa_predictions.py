@@ -97,9 +97,6 @@ class TSAPredictions:
         return
     
     def execute_time_series_analysis(self, emiten):
-        # end = datetime.now()
-        # start = datetime(2022, 1, 1)
-        # _, ax = plt.subplots()
         try:
             stock_data = self.scrape_stock_price(emiten)
             target_pred, target_fore, perc, rmse = self.time_series_analysis_model(12, stock_data)

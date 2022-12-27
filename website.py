@@ -1,6 +1,3 @@
-import numpy as np
-import pandas as pd
-import yfinance as yf
 import streamlit as st
 
 from tsa_predictions import TSAPredictions
@@ -28,3 +25,4 @@ if select == "Stock Analysis":
     tab1, tab2 = st.tabs(['Technical', 'Fundamental'])
     with tab1:
         wf.select_technical(emiten)
+        

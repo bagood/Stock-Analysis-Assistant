@@ -36,8 +36,8 @@ class WebsiteFunctions:
     def select_technical(self, emiten):
         dates = st.date_input("Start Date:", datetime.now() - timedelta(days=7))
         stock_data = self.tai.scrape_stock_price(emiten, start=dates)
-        indicators = st.multiselect('Select indicators to show', ['Volume'])
-        fig = self.tai.visualize(stock_data, indicators)
+        indicators = st.multiselect('Select indicators to show', ['Volume', 'Forecast', 'MA20', 'MA50', 'MA100'])
+        fig, ax = self.tai.visualize(emiten, stock_data, indicators)
         st.pyplot(fig)
 
         return
