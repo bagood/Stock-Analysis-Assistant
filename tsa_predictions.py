@@ -15,7 +15,7 @@ class TSAPredictions:
     
     def scrape_stock_price(self, emiten, start=datetime(2022, 1, 1), end=datetime.now()):
         """Collects an emiten's stocks price data from yahoo finance
-        :param start: a datetime object that tells the first date where the datas are being collected
+        :param start: a datetime object that tells the first date where the datas will be collected
         :param end: a datetime object that tells the last date where the datas are being collected
         :param emiten: a string that represents the emiten's code that is listed in the stock market
         :return stock_data: a pandas dataframe that contain the emiten's stocks data
@@ -77,26 +77,31 @@ class TSAPredictions:
 
         return (target_fore, perc)
     
-    
-    def create_plot(self, stock_data, target_pred, target_fore, ax, emiten): 
-        """Creates the visualisation for the stock's price, stock price predictions, and stock price forecast
-        :param stock_data: a pandas dataframe that contain the emiten's stocks data
-        :param target_pred: a numpy arrays consisting of predictions made for the stock's price
-        :param target_fore: a numpy arrays that consist 1 day forecast of the stock's price
-        :param ax: an integere that repersentes the axes for which the plots will be visualized
-        :param emiten: a string that represents the emiten's code that is listed in the stock market
-        """
-        stock_data['Close'].plot(ax=ax)
-        target_pred.plot(ax=ax)
-        target_fore.plot(ax=ax)
-        ax.set_title(f'Saham {emiten.upper()}')
-        ax.set_ylabel('Close Price')
-        ax.legend(['Price', 'Model Forecasts'])
-        plt.show()
+    # def create_plot(self, stock_data, target_pred, target_fore, ax, emiten): 
+    #     """Creates the visualisation for the stock's price, stock price predictions, and stock price forecast
+    #     :param stock_data: a pandas dataframe that contain the emiten's stocks data
+    #     :param target_pred: a numpy arrays consisting of predictions made for the stock's price
+    #     :param target_fore: a numpy arrays that consist 1 day forecast of the stock's price
+    #     :param ax: an integer that repersentes the axes for which the plots will be visualized
+    #     :param emiten: a string that represents the emiten's code that is listed in the stock market
+    #     """
+    #     stock_data['Close'].plot(ax=ax)
+    #     target_pred.plot(ax=ax)
+    #     target_fore.plot(ax=ax)
+    #     ax.set_title(f'Saham {emiten.upper()}')
+    #     ax.set_ylabel('Close Price')
+    #     ax.legend(['Price', 'Model Forecasts'])
+    #     plt.show()
         
-        return
+    #     return
     
     def execute_time_series_analysis(self, emiten):
+        """Generate the 1 day forecast of the stock price
+        :param emiten: a string that represents the emiten's code that is listed in the stock market
+        :return target_fore: 1 day forecast of the stock's price
+        :return perc: stock's price percentage increase on the next day
+        :return rmse: a float that represents the root mean squared of the predictions made
+        """
         try:
             stock_data = self.scrape_stock_price(emiten)
             target_pred, target_fore, perc, rmse = self.time_series_analysis_model(12, stock_data)
